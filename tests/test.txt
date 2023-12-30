@@ -1,0 +1,15 @@
+1
+.\script.txt
+..\resorces\psl_6hrPlev_reanalysis_ERA5_20100101_20100131.nc
+0
+1
+0
+0
+3
+1
+2
+0
+0
+png
+..\tests
+output
