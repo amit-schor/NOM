@@ -1,4 +1,4 @@
-# NOM
+# Netcdf for Oceanography & Meteorology (NOM)
 ##### `made by amit schor 2021`
      
 ## Introduction
